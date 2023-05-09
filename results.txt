@@ -1,0 +1,308 @@
+My name is Marcus Aurelius and I am working on a new concept for a world map.
+
+
+I had thought of a few different designs, but ________. All of them were boring or difficult to implement. You can see the list I used here. The only one I liked was the map that the main character traveled around and explored. This map has no real purpose though, so I figured I would make something better.
+
+
+This world map consists of a series of concentric circles with each circle filled with various goods. You can see a small "A" in the center of each circle to tell where the circle starts and ends.
+
+
+The center of each circle has a small treasure or artifact (as the player travels through the world), to help with the exploration. If the player does not find this, they are told not to worry, that someone, probably a wise old sage somewhere, knows better. The center of each circle also has a single NPC that can help guide the player and help them along with the map, and also gives their player a single power item to help in their adventure.
+
+
+With that all said, here are some ideas that might or might not come to fruition.
+
+
+A few suggestions and thoughts on possible new items.
+
+
+The player can find the following objects in the "center" of circles of varying size.
+
+
+Inner Circle:
+
+- The "A" inside the circle is a treasure or artifact.
+
+- If the player finds this item, the reward increases.
+
+- If the player does not find this item, he/she is given the option to keep it or throw it away.
+
+
+The Outer Circle:
+
+- the player has to travel through the entire area of the circle to find them, not just the specific center.
+
+- the reward is dependent from the amount of time of travel.
+
+- if they never get that item they need, they can throw the power item away without penalty.
+
+- if the player has found it but the reward is less than needed, it will be given to the NPC.
+
+
+The Player should probably keep track of their progress on the current world map (at the top left of their notebook). If they come across items and are interested in them, or have a problem they wish to solve, they can choose to speak to a NPC to go to the NPC's house and check out their items. This can be useful for quests that require information, or want NPCs to do something at a specific place.
+
+
+These items seem a bit OP, but their use would probably be in the realm of combat, and would only really be useful in specific situations. This may result in item upgrades, or a better ability after a certain time of travel.
+
+
+If you guys want to try different things with this or have some ideas to throw on here, let me know!
+
+Last edited by wafflehawk on May 26, 2012, 12:56:35 AM
+
+=======================
+
+My name is Marcus Aurelius and I am working on a new concept for a world map.
+
+
+I had thought of a few different designs, but ive finally gotten around to it. I'll be sticking to it for now, though, just to give it the initial set of features I want to have. I wanted to make a world map for a game that could take place entirely within the player's imagination. From an aesthetic standpoint, it's an interesting way to make the world feel like a shared world and not just a set of maps.
+
+What is the difference between the world map and "World Map View"?
+
+The world map can be used to teleport to other worlds. The world map view shows where it stands on the map. It lets you know where it's at or what the current status is. The world map also presents you with information about the current status of the world, including important NPCs. If I ever release a World Map View-based game it would definitely be a strategy game.
+
+
+What does "world map view" mean?
+
+It'll mostly be for map makers. Like, in Civilization you use the "world view" to quickly find your way around the world, and in the latest XCOM it would be used to quickly find places and look up info on various areas, like the location of an Alien Base or a Terror Site. It's not hard to imagine a similar feature could be made for X-Com.
+
+What are the best cities to build in the world?
+
+Some of the best cities to build might actually be in the other worlds. Or, it could just be the city that you've conquered. A lot of my other ideas involve a lot of travel and trading. So, I imagine that the best cities would actually be on another world. In that case, you could just place an outpost in a far corner of the map. That way, there's no need to travel to every city. You could also make it so that you have enough resources to build an outpost and defend it.
+
+"World map view" is a pretty cool looking system, and I hope I do better next time.
+
+
+==========
+
+My name is Marcus Aurelius and I am working on a new concept for a world map.
+
+
+I had thought of a few different designs, but  this seems most fitting. A land of humans and animals in harmony.
+
+
+(There is a map in a folder named,
+
+"Animals are not animals, they are just people"
+
+just in case it's of interest.)
+
+
+My next goal:
+
+To have the map included in the book (as an illustrated insert) for free access to all backers at the $65 level and above!
+
+
+==========
+
+
+My name is Marcus Aurelius and I am working on a new concept for a world map.
+
+
+I had thought of a few different designs, but ive started to get the feel of what a game on that scale would look like.
+
+The problem is that the current map is a huge mess.
+
+On the one side, there are the continents, which just cover part of the world.
+
+On the other side, we have the ocean, which would look even worse as there are no rivers.
+
+There is no coast either, so there is no continuity from coast to coast.
+
+We have the great mountain ranges, and they are just blank.
+
+The only thing separating them is the ocean and a couple of big rivers that go inside.
+
+And there are rivers all over the place.
+
+I really need to get out of my shell and stop being so afraid to do new things. Maybe I can make a huge world map using these mountains as a guideline. I'm really looking forward to seeing what it looks like.
+
+I've given myself a deadline of 1 month which is probably going to be a stretch. However, I have a few more ideas that I'm experimenting with so I might be able to pull off something a little faster.
+
+
+==========
+
+My name is Marcus Aurelius and I am working on a new concept for a world map.
+
+
+I had thought of a few different designs, but ~~I found a new inspiration, which I thought was especially brilliant~~. (Well it kinda is)
+
+
+This map would have a vertical axis that allowed a few things:
+
+
+1. Travel into a different portion of the map when you go east/west by some constant angle.
+
+
+2. Create random encounters when people travel around the world map. I'm guessing in a fantasy version of the world, it would be a lot of travelers and merchants.
+
+
+3. An interactive portal to a new section of the map that you can explore. Or some other thing.
+
+Click to expand...
+
+
+==========
+
+
+My name is Marcus Aurelius and I am working on a new concept for a world map.
+
+
+I had thought of a few different designs, but ive always found myself just feeling a little frustrated while working on them. Then suddenly I get a call from Greg from Star Wars. Greg says in detail I could have a role in the next movie in my own style.
+
+
+We had a brief meeting and he talked for about 5 minutes about how his story came to be what it was, so I could work on designing something that was like his. We had a few weeks to create something that had some of the same flair but we came up with something a little more unique.
+
+
+I got a call later that evening from Greg saying he had an idea he wanted me to work on, Star Wars VII.
+
+
+Here is the game that was just announced for the movie. It is just under an hour long and has a lot of really beautiful shots of the planets. It has a real Star Wars feel to it.
+
+
+Now that that bit of writing is passed I might look to do a sequel.
+
+
+Here is the design documents for the original concept of the game. They are my notes. I worked with Greg and his team for 3 full days before Greg passed away from heart illness.
+
+
+Here is a few more pics and a few more descriptions.
+
+
+http://forums.kc-mm.com/index.php?topic=163773.0 http://forums.kc-mm.com/index.php?topic=163768.msg174727#msg174727
+
+
+==========
+
+
+My name is Marcus Aurelius and I am working on a new concept for a world map.
+
+
+I had thought of a few different designs, but ive decided a single world map makes sense. My world map has two states: a primary state and two states that are interlinked: a secondary state.
+
+
+There are two zones, where the primary state, I believe, has very few inhabitants.
+
+
+The second state consists of several cities, and in my mind it's really a big city.
+
+
+The map is divided into three areas. The primary areas on the left are much more dense than the primary areas on the right. The areas inbetween are densely populated but have very few citizens. I think every person living there is basically doing the same thing. All areas in between are very empty, except for a couple of towns in each primary state. All the population is at some sort of work or trade, so they spend time in the cities when the areas get too crowded. The towns are less populated, as most people are living off of their farms, and have a much smaller population than the rest of the world.
+
+
+The towns are where large amounts of cities and economic activity take place. All cities are fairly dense, since most people work there. You'll rarely see people walking everywhere. Since most population is at work or in towns, it's not uncommon that a city you pass by has a higher population than you thought it had.
+
+
+On the reverse side off the map, you'll also notice that there are very few people living in other areas. The reason is that a lot of areas have lots of people, while some have very few or no people. I think this is due to the fact that very few people take the time to visit these places. If you can visit, you'll spend most of your time outside of that area. In fact, most of the population would rather be sleeping. But since most people live in the towns, and towns are a lot more populated, those towns are extremely crowded, and people spend large amounts of time there.
+
+
+And finally, I want to say that all of these maps were made in an hour.
+
+
+The other thing I did was to find the most basic, and easy, way to represent the world map of the game. The only other thing I did was create the borders and the borders of the states on the game world map.
+
+So what we have is in the world is the world map. On top of that is a single zone, the primary state. To the right of the primary state there are a couple of zones, which are connected to the primary state. The two borders are made up of zones, which are connected together as a network. The zones are made to have different values. Some of them are pretty crowded while others have the same amount of people. So basically, your towns have a greater population than cities.
+
+
+The top right zone, is one of the best in the game (from my perspective). On the bottom right you have a fairly dense zone, which seems to have the same population as the rest of the primary states.
+
+Then, we have all of the other zones, which are equally as dense. The bottom zone is the most populated - the one in the bottom right corner. The areas to the left and above the zone in the bottom right corner can get a lot of people, thanks to some other zones.
+
+
+If you wanted to zoom in on your world map, you could set it to zoom in by one size. On the left are the primary states, the two zones on the right, and the bottom right zone. To zoom in, just click on the zone on the left, or the zone on the right. To zoom down, use the slider.
+
+
+Of course, I know how a lot of people would play this game, and since that type of player spends the majority of their time in the towns, this might not be the best map for that type of player. However, if you are interested in building a game around your own world, and want your people to be able to live in your towns, this is the way to do it.
+
+Download the zip here: main.ZIP
+
+Enjoy!
+
+
+==========
+
+
+My name is Marcus Aurelius and I am working on a new concept for a world map.
+
+
+I had thought of a few different designs, but ileague and a good friend convinced me that a world map should consist of a circular track, or circular ocean in many respects, circling around the center of a planet.
+
+
+It appears that a system where a planet is moving around the sun would require a different set of principles to describe it that it does not require a very massive stationary planet. So I changed the core in the first version of the Earth map to have the equator rotating, however that change would make the map too small and not at all immersive. Also, I would much rather map in a way that makes the world feel much more dynamic and much more alive as it slowly turns from the equator to the poles which will be more realistic than the current Earth map system.
+
+
+The current Earth map system uses coordinates of (0,0,0,0,20,1,0,0,0,0,0,1,1,0,10,0,0,0,0). There is nothing wrong with that, it works really well for what it was designed for, however I would like to change it to (1,0,10,0,1,10,0,0,0,2,0,0,0,0,10,0,0,1,10,0,1,1).
+
+
+Then another problem is that it is currently impossible to move back over 2-3 units without resetting the coordinate system. This means that if you make a jump a bit on line, you will go back over the line and end up 1 unit off the previous destination. So you can't go to an island if jump is a bit to the other side of your current point. Again, this doesn't bother me very much, but I can imagine some people would find it annoying.
+
+
+So my new plan is to create a 4-dimensional grid, or planet, and have every point of the planet located on different (and not necessarily parallel) lines that go around the planet while on which is centered at the center. Therefore, the Earth is one planet but there are a number of different planet systems. There is one line which starts right at the equator and will go around the entire world without being reset (for example the North pole line). There are some other lines that will go the opposite way, going around the poles, going up, or down.
+
+
+So, how are coordinates of (0,0,0,0,20,1,0,0,0,0,1,1,0,10,0,0,0,0) different from (1,0,10,0,1,10,0,0,0,0,2,0,0,0,0,10,0,0,1,10,0,1,1)? Just put the corresponding point on another line in the grid as an equatorial point and divide the coordinate system by 2. Then just use that number to generate a destination point on a line that crosses each coordinate system or create a system of lines with a destination point based on the two system. The point that was generated with an equatorial point would be 1 unit off the equatorial point. The line based system would be a linear movement, but each destination point would be 0.5 units away from its previous position.
+
+Click to expand...
+
+
+==========
+
+
+My name is Marcus Aurelius and I am working on a new concept for a world map.
+
+
+I had thought of a few different designs, but  the most popular suggestion was the one presented on the forum by Soggy, who proposed this simple, but elegant design!
+
+
+The basic idea is that the earth is a big flat disc covered in a very light yellowish-brown crust that is slowly expanding towards the center. The disc is not only flat, but it is very smooth, yet uneven in some places, such as the Atlantic, because of the gravitational pull of Jupiter. Jupiter also contains several other planets, such as Earth's close neighbor, Saturn. The continents on the surface are small, in contrast with the rest of the disc, only being 1/3 of its area. The oceans on these continents are larger, however, being 2/3 of the width of the disc.
+
+
+The outer crust is a very tough black matte-like material (or possibly a light grey) that looks like it can be carved to whatever need the designers may have. This crust is very strong, durable, and very resistant to damage. However, it also feels very fragile and like most of the other continents, does not bend much.
+
+
+We can also see the oceans extending far out from the outer crust of the earth, where the continents meet the oceans in this giant ocean, making the world look very similar to a large, round planet, like a Moon or Mercury.
+
+
+There are also a few volcanoes and islands nearby on the outer crust, with the first of these being the Antarctic continent. The islands are all very tiny and seem to have little weight on them, making the overall shape of the world seem to be very round and even and like that of a huge sphere that is not entirely solid. Also, because of the way the world is designed, the continents sit perfectly on top of the oceans, so they do not actually sink at all. As such, there is no need for an "ocean layer", but rather a thick "concrete" world, like you would see on the beach as the sea slowly recedes.
+
+
+To help add a bit of depth and realism to this new world map, I have also added some large mountains, some smaller volcanoes, and two mysterious islands.
+
+
+In addition, the map should be quite dynamic, being affected a great deal by Earth's weather, with occasional changes due to changes in the Sun and Moon.
+
+
+Here are some additional maps that I am currently contemplating using:
+
+
+The main thing I am currently focusing on is creating some new creatures for this map, using existing assets and models of various sorts. I am aiming to create 2 or 3 new species based on the existing flora and fauna of the new world (though some may also be inspired by native species of the continent.) I have created 3 new creatures from scratch, all in 3ds Max. These are:
+
+
+The Hylotl Shark - A medium-sized, deep-diving carnivorous shark, found in the oceans of the new world. Its teeth are very sharp and have a strong sting.
+
+
+The Zoanthid Shark - A small, highly venomous shark, also found in the oceans of the new world. Both of these creatures are unique to the new world and are not found in another, and are not to be found anywhere else, due to their ability to adapt and survive and thrive among other exotic creatures.
+
+
+The Cephalopod Shark - A small, carnivorous, fish-eating cephalopod animal of the deep ocean, found in the great seas of the new world. It has extremely strong fins and large jaw teeth.
+
+
+Below are animations for a few of the creatures that I am currently working on:
+
+
+Hylotl Shark - A small, deep-diving predatory (dived up to 300 feet with only fins) shark that is very large for its body size. The teeth on its jaws can be extremely strong, and it uses its long fins to dive very quickly and in very deep water.
+
+
+The Zoanthid Shark - A small, venomous shark that spends most of its time in the shallow seas of the new world. It uses large mandibles to grab prey, using powerful suction cups.
+
+
+Cephalopod Shark - A fish-eating cephalopod animal of the deep ocean. It has sharp mandibles for gripping on to its prey and with its powerful tail it can pull its prey to it.
+
+
+Please note that these do not represent current (or even future) models and models should not be confused with models from previous games.
+
+
+The above animations are done in 3ds Max. I have attempted to create realistic (though still fantasy in nature) designs for them, with a
+
+
+==========
+
